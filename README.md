@@ -20,9 +20,9 @@
 ## 使用方法
 
 1. 克隆该仓库：
-   ```bash
-   git clone https://github.com/你的GitHub用户名/不良研究所.git
-````
+  bash
+   git clone  https://github.com/你的GitHub用户名/不良研究所.git
+
 
 2. 打开`index.html`文件，即可在浏览器中查看导航页面。
 
