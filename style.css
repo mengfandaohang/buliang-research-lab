@@ -1,0 +1,77 @@
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f6f1; /* 奶色背景 */
+            color: #333;
+        }
+
+        header {
+            background-color: #e9decc; /* 奶黄色背景 */
+            color: #333;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header img {
+            width: 150px;
+        }
+
+        .container {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            background-color: #f9f6f1; /* 奶黄色底色 */
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            text-align: center; /* 将所有内容居中 */
+        }
+
+        section h2 {
+            margin-bottom: 15px;
+        }
+
+        section p, section ul {
+            font-size: 16px;
+            line-height: 1.6;
+            text-align: center; /* 居中对齐段落和列表 */
+        }
+
+        section a {
+            color: #FF9800;
+            text-decoration: none;
+            margin-top: 15px;
+            display: block;
+            text-align: center;
+            white-space: nowrap; /* 保持网址在一行内 */
+        }
+
+        section a:hover {
+            color: #0056b3;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px 0;
+            background-color: #e9decc; /* 奶黄色背景 */
+            color: white;
+            margin-top: 40px;
+        }
+
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        footer p {
+            margin: 5px 0;
+        }
+    </style>
